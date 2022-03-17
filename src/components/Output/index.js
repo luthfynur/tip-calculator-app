@@ -18,7 +18,7 @@ export default function Output({ tipAmount, total, onClick, disabled }) {
           </div>
           <input
             disabled
-            value={`$ ${tipAmount}`}
+            value={`$${tipAmount}`}
             className={`sm:disabled:max-w-[200px] font-monospace disabled:max-w-[180px] disabled:bg-transparent disabled:text-strongcyan disabled:text-[40px] text-right absolute inset-y-0 right-0`}
           />
         </div>
@@ -29,7 +29,7 @@ export default function Output({ tipAmount, total, onClick, disabled }) {
           </div>
           <input
             disabled
-            value={`$ ${total}`}
+            value={`$${total}`}
             className={`sm:disabled:max-w-[200px] font-monospace disabled:max-w-[180px] disabled:bg-transparent disabled:text-strongcyan disabled:text-[40px] text-right absolute inset-y-0 right-0`}
           />
         </div>
