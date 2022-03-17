@@ -1,3 +1,9 @@
+# Tip Calculator App
+
+A challenge from [Frontend Mentor](https://frontendmentor.io)\
+Created with Create React App and Tailwindcss \
+![screenshot](./public/screenshot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +11,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+This command installs a package, and any packages that it depends on.
 
 ### `npm start`
 
